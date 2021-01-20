@@ -58,4 +58,4 @@ He he so I temporarily stopped all projects....
 <a href="https://t.me/Mst_jackson"><b>Catch me</b>..
 
 
-<code>slow response...</code>
+[<code>slow response...</code>](wa.me/)
