@@ -58,4 +58,4 @@ so <b><I>I temporarily stopped all projects....</b></I>
 <a href="https://t.me/Mst_jackson"><b>Catch me</b>..
 
 
-[<code>slow response...</code>](wa.me/)
+[<code>slow response...</code>]()
