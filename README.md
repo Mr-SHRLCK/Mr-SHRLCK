@@ -52,7 +52,7 @@
 <code> Currently log outed </code> <b><i> GitHub</b></I>..
 <p><b>why logout?? Do you back again?? Any projects??</b></p>
 Many many questions.. I have Only one answer for you.currently I'm not Available..why? Because  in my life I was waiting for a special person.
-That person asked to me. Stop all your madness 🤨
+That person asked to me. Stop all your madness 🥺
 so <b><I>I temporarily stopped all projects....</b></I>
 
 <a href="https://t.me/Mst_jackson"><b>Catch me</b>..
