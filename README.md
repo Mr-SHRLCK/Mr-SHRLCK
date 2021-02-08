@@ -21,10 +21,9 @@
 
 <h> <b> languages!  </b> </h>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MR-SHRLCK&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="MR-SHRLCK" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=MR-SHRLCK&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="MR-SHRLCK" /></p>
 
 <h> <b> my status </b> </h>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MR-SHRLCK&show_icons=true&theme=tokyonight&locale=en" alt="MR-SHRLCK" /></p>
 
 ### Hits
