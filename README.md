@@ -14,7 +14,7 @@
 - 😄 *Pronouns*: ...nibba 
 - ⚡ *Fun fact*: ...i'm a joker
 -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MR-SHRLCK&label=Profile%20views&color=0e75b6&style=plastic" alt="MR-SHRLCK" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Xadihtya&label=Profile%20views&color=0e75b6&style=plastic" alt="MR-SHRLCK" /> </p>
 
 ### My stats
 ![MR-SHRLCK github stats](https://github-readme-stats.vercel.app/api?username=Mr-SHRLCK&count_private=true)
