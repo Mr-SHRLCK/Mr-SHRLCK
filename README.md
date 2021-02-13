@@ -26,7 +26,7 @@
 <b>my GitHub stats</b><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MR-SHRLCK&show_icons=true&theme=tokyonight&locale=en" alt="MR-SHRLCK" /></p>
 
 ### Hits
-[![ MR-SHRLCK HitCount](http://hits.dwyl.com/MR-SHRLCK/MR-SHRLCK.svg)](http://hits.dwyl.com/MR-SHRLCK/MR-SHRLCK)
+[![ MR-SHRLCK HitCount](http://hits.dwyl.com/MR-SHRLCK/MR-SHRLCK.svg)](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Mr-SHRLCK/)
 
 ### I'm most comfortable in that weird, funky world between design and development—that's where the most fun, creative, boundary-breaking work happens. If you're interested in the work I do, please consider supporting me on GitHub!
 
