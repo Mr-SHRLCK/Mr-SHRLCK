@@ -23,7 +23,7 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=MR-SHRLCK&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="MR-SHRLCK" /></p>
 
 
-![MR-SHRLCK's github stats](https://github-readme-stats.vercel.app/api?username=MR-SHRLCKn&show_icons=true&title_color=C0C0C0&icon_color=00FFFF&text_color=800000&bg_color=000)
+![MR-SHRLCK's github stats](https://github-readme-stats.vercel.app/api?username=MR-SHRLCKn&show_icons=true&title_color=C0C0C0&icon_color=00FFFF&text_color=800000&bg_color=000 )
 
 
 ### Hits
