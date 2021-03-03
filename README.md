@@ -14,8 +14,11 @@
 - 😄 *Pronouns*: ...nibba 
 - ⚡ *Fun fact*: ...i'm a joker
 -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MR-SHRLCK&label=Profile%20views&color=0e75b6&style=plastic" alt="MR-SHRLCK" /> </p>
+- I Love To Spend My Time In <img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg" width="30px" />   <img src ="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" width="30px" />   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/heroku.svg" width="30px" />  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/xbox.svg" width="30px" />
 
+![MR-SHRLCK github stats](https://github-readme-stats.vercel.app/api?username=MR-SHRLCK&show_icons=true&title_color=C0C0C0&icon_color=00FFFF&text_color=800000&bg_color=000)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MR-SHRLCK&label=Profile%20views&color=0e75b6&style=plastic" alt="MR-SHRLCK" /> </p>
 
 <h> <b> languages! </b> </h>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=MR-SHRLCK&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="MR-SHRLCK" /></p>
