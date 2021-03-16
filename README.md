@@ -4,12 +4,12 @@ Im <b> Sher-lock</b>
 - 🔭 *I’m currently working on* ...UK🇬🇧
 - 🌱 *I’m currently learning* ... Phyton 🐍,HTML,Java.
 - 👯 *I’m looking to collaborate on* ...All the project's i got the invitation by someone
-- 🤔 *I’m looking for help with* ... Shaalexader, Adhithyan
+- 🤔 *I’m looking for help with* ... All
 - 💬 *Ask me about* ... Devloper, Engineer,Obstimcts
-- 📫 *How to reach me*: ...https://t.me/Te33on_5uicide
+- 📫 *How to reach me*: ... [Sher-lock](t.me/mr_srlock)
 - 😄 *Pronouns*: ...nibba 
-- ⚡ *Fun fact*: ...i'm a joker
-
+- ⚡ *Fun fact*: ...i'm a joker and noob
+- 🌀 *what I know*: ... Userbot plug-in developing and group mangement bot (noob🥳)
 - I Love To Spend My Time In <img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg" width="30px" />   <img src ="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" width="30px" />   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/heroku.svg" width="30px" />  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/xbox.svg" width="30px" />
 
 ![MR-SHRLCK github stats](https://github-readme-stats.vercel.app/api?username=MR-SHRLCK&show_icons=true&title_color=C0C0C0&icon_color=00FFFF&text_color=800000&bg_color=000)
