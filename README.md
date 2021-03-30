@@ -12,20 +12,27 @@ Im <b> Sher-lock</b>
 - 🌀 *what I know*: ... Userbot plug-in developing and group mangement bot (noob🥳)
 - I Love To Spend My Time In <img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg" width="30px" />   <img src ="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" width="30px" />   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/heroku.svg" width="30px" />  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/xbox.svg" width="30px" />
 
-![MR-SHRLCK github stats](https://github-readme-stats.vercel.app/api?username=MR-SHRLCK&show_icons=true&title_color=C0C0C0&icon_color=00FFFF&text_color=800000&bg_color=000)
+##  🐙 **Github Stats**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MR-SHRLCK&label=Profile%20views&color=0e75b6&style=plastic" alt="MR-SHRLCK" /> </p>
+[![github stats](https://github-readme-stats.vercel.app/api?username=MR-SHRLCK&show_icons=true&theme=radical)](https://github.com/MR-SHRLCK)
 
-<h> <b> languages! </b> </h>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=MR-SHRLCK&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="MR-SHRLCK" /></p>
+![GitHub followers](https://img.shields.io/github/followers/MR-SHRLCK?color=aqua&label=Followers&style=for-the-badge)
+![GitHub User's stars](https://img.shields.io/github/stars/MR-SHRLCK?affiliations=OWNER&color=aqua&style=for-the-badge)
+![Keybase PGP](https://img.shields.io/keybase/pgp/MR-SHRLCK?color=aqua&style=for-the-badge)
 
 
+## 🌐 **Top Languages**
 
-### Hits
-[![ MR-SHRLCK HitCount](http://hits.dwyl.com/MR-SHRLCK/MR-SHRLCK.svg)](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Mr-SHRLCK/)
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-SHRLCK&show_icons=true&theme=radical&layout=compact)](https://github.com/MR-SHRLCK)
 
-<h> what I use? </h>
+
+## 🕒 **Wakatime Stats**
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=pokurt&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## **what I use?** </h>
 <p align="left"/p> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+
 
 ### I'm most comfortable in that weird, funky world between design and development—that's where the most fun, creative, boundary-breaking work happens. If you're interested in the work I do, please consider supporting me on GitHub!
 
