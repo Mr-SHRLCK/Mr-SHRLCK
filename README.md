@@ -10,7 +10,8 @@ Im <b> Sher-lock</b>
 - 😄 *Pronouns*: ...nibba 
 - ⚡ *Fun fact*: ...i'm a joker and noob
 - 🌀 *what I know*: ... Userbot plug-in developing and group mangement bot (noob🥳)
-- I Love To Spend My Time In <img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg" width="30px" />   <img src ="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" width="30px" />   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/heroku.svg" width="30px" />  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/xbox.svg" width="30px" />
+- I Love To Spend My Time In
+ <img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg" width="30px" />   <img src ="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" width="30px" />   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/heroku.svg" width="30px" />  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/xbox.svg" width="30px" />
 
 ##  🐙 **Github Stats**
 
