@@ -20,6 +20,7 @@ Im <b> Sher-lock</b>
 ![GitHub followers](https://img.shields.io/github/followers/MR-SHRLCK?color=aqua&label=Followers&style=for-the-badge)
 ![GitHub User's stars](https://img.shields.io/github/stars/MR-SHRLCK?affiliations=OWNER&color=aqua&style=for-the-badge)
 ![Keybase PGP](https://img.shields.io/keybase/pgp/MR-SHRLCK?color=aqua&style=for-the-badge)
+[![Sparkline](https://stars.medv.io/MR-SHRLCK/MR-SHRLCK.svg)](https://stars.medv.io/MR-SHRLCK/MR-SHRLCK)
 
 
 ## 🌐 **Top Languages**
