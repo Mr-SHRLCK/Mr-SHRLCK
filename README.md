@@ -21,7 +21,7 @@ Im <b> Sher-lock</b>
 ![GitHub User's stars](https://img.shields.io/github/stars/MR-SHRLCK?affiliations=OWNER&color=aqua&style=for-the-badge)
 ![Keybase PGP](https://img.shields.io/keybase/pgp/MR-SHRLCK?color=aqua&style=for-the-badge)
 [![Sparkline](https://stars.medv.io/MR-SHRLCK/MR-SHRLCK.svg)](https://stars.medv.io/MR-SHRLCK/MR-SHRLCK)
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=phaticusthiccy)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=MR-SHRLCK)
 
 </details>
 
@@ -30,7 +30,7 @@ Im <b> Sher-lock</b>
 
 ![Metrics](https://metrics.lecoq.io/MR-SHRLCK?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
 
-[![News](https://github-readme-stats.vercel.app/api/pin/?username=MR-SHRLCK&repo=Elizabeth-bot)](https://github.com/MR-SHRLCK/Elizabeth-bot)
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=MR-SHRLCK&repo=Elizabeth-bot)](https://github.com/MR-SHRLCK/Elizabeth-2.0)
 
 
 ## 🌐 **Top Languages**
