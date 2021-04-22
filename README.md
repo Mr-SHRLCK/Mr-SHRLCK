@@ -41,7 +41,7 @@ Im <b> Sher-lock</b>
 
 
 ## 🕒 **Wakatime Stats**
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=pokurt&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=pokurt&theme=radical)](https://github.com/MR-SHRLCK/github-readme-stats)
 
 
 ## **what I use?** </h>
