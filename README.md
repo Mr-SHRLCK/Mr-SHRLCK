@@ -27,9 +27,7 @@ Im <b> Sher-lock</b>
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=MR-SHRLCK)
 
-</details>
 
-<details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
 ![Metrics](https://metrics.lecoq.io/MR-SHRLCK?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
