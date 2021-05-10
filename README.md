@@ -1,14 +1,14 @@
 ### Heya there 👋
 Im <b> Sher-lock</b>
 
-- 🔭 *I’m currently working on* ...UK🇬🇧
-- 🌱 *I’m currently learning* ... Phyton 🐍,HTML,Java.
+- 🔭 *I’m currently working on* ... UNITED KINGDOM🇬🇧
+- 🌱 *I’m currently learning* ... Phyton 🐍,HTML,Java,
 - 👯 *I’m looking to collaborate on* ...All the project's i got the invitation by someone
 - 🤔 *I’m looking for help with* ... All
-- 💬 *Ask me about* ... Devloper, Engineer,Obstimcts
+- 💬 *Ask me about* ... Software Devloper,Engineer,Obstimcts,
 - 📫 *How to reach me*: ... [Sher-lock](t.me/mr_srlock)
 - 😄 *Pronouns*: ...nibba 
-- ⚡ *Fun fact*: ...i'm a joker and noob
+- ⚡ *Fun fact*: ...i'm a joker and noob,kanger,like a simple hub
 - 🌀 *what I know*: ... Userbot plug-in developing and group mangement bot (noob🥳)
 - I Love To Spend My Time In
  <img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg" width="30px" />   <img src ="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" width="30px" />   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/heroku.svg" width="30px" />  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/xbox.svg" width="30px" />
