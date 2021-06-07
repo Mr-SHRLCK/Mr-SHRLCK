@@ -32,7 +32,7 @@ Im <b> Sher-lock</b>
 
 ![Metrics](https://metrics.lecoq.io/MR-SHRLCK?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
 
-[![News](https://github-readme-stats.vercel.app/api/pin/?username=MR-SHRLCK&repo=Elizabeth-bot)](https://github.com/MR-SHRLCK/Elizabeth-2.0)
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=MR-SHRLCK&repo=Elizabeth-bot)](https://github.com/MR-SHRLCK/Elizabeth-bot)
 
 
 ## 🌐 **Top Languages**
@@ -90,7 +90,7 @@ Many many questions.. I have Only one answer for you.currently I'm not Available
 That person asked to me. Stop all your madness 🥺
 so <b><I>I temporarily stopped all projects....</b></I>
 
-<a href="https://t.me/Mst_jackson"><b>Catch me</b>..
+<a href="https://t.me/Mr_srlock"><b>Catch me</b>..
 
 
 [<code>slow response due to...</code>](https://free-to-live.com/wp-content/uploads/2020/05/Romantic-good-night-messages-for-him-768x576.jpg)
