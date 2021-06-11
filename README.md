@@ -1,19 +1,20 @@
-### Heya there 👋
-Im <b> Sher-lock</b>
+### Hola there 👋
+Im <b> Sherlock</b>
 
-- 🔭 *I’m currently working on* ... UNITED KINGDOM🇬🇧
+- 🏡 *I’m currently live* ... UNITED KINGDOM 🇬🇧
 - 🌱 *I’m currently learning* ... Phyton 🐍,HTML,Java,
-- 👯 *I’m looking to collaborate on* ...All the project's i got the invitation by someone
-- 🤔 *I’m looking for help with* ... All
+- 👯 *I’m looking to collaborate on* ...All the project's i got the invitation by someone. *But now I'm busy*
+- 🤔 *I’m looking for help with* ... I D K
 - 💬 *Ask me about* ... Software Devloper,Engineer,Obstimcts,
-- 📫 *How to reach me*: ... [Sher-lock](t.me/mr_srlock)
-- 😄 *Pronouns*: ...nibba 
-- ⚡ *Fun fact*: ...i'm a joker and noob,kanger,like a simple hub
-- 🌀 *what I know*: ... Userbot plug-in developing and group mangement bot (noob🥳)
-- I Love To Spend My Time In
- <img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg" width="30px" />   <img src ="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" width="30px" />   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/heroku.svg" width="30px" />  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/xbox.svg" width="30px" />
+- 📫 *How to reach me*: ... [Sher-lock](t.me/mr_srlock) *Now I'm log outed my account* <mono> if you've Any requests ib me I will give reply ASAP </mono>
+- 😄 *Pronouns*: ... 🎭🔥
+- ⚡ *Fun fact*: ... I don't know anything
+- 🌀 *what I know*: ... Python , Java , HTML , C++
+- 🎁 *I Love To Spend My Time In*: ...
 
-##  🐙 **Github Stats**
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg" width="30px" /> <img src ="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" width="30px" /> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/heroku.svg" width="30px" /> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/xbox.svg" width="30px"/>
+
+##  🐙 **My github Stats**
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=MR-SHRLCK&show_icons=true&theme=radical)](https://github.com/MR-SHRLCK)
 
@@ -21,22 +22,11 @@ Im <b> Sher-lock</b>
 
 ![GitHub User's stars](https://img.shields.io/github/stars/MR-SHRLCK?affiliations=OWNER&color=aqua&style=for-the-badge)
 
-![Keybase PGP](https://img.shields.io/keybase/pgp/MR-SHRLCK?color=aqua&style=for-the-badge)
-
-[![Sparkline](https://stars.medv.io/MR-SHRLCK/MR-SHRLCK.svg)](https://stars.medv.io/MR-SHRLCK/MR-SHRLCK)
-
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=MR-SHRLCK)
 
 
-    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-![Metrics](https://metrics.lecoq.io/MR-SHRLCK?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
-
-[![News](https://github-readme-stats.vercel.app/api/pin/?username=MR-SHRLCK&repo=Elizabeth-bot)](https://github.com/MR-SHRLCK/Elizabeth-bot)
-
-
-## 🌐 **Top Languages**
-
+## 🌐 **Top Languages that I used**
 [![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-SHRLCK&show_icons=true&theme=radical&layout=compact)](https://github.com/MR-SHRLCK)
 
 
@@ -84,13 +74,13 @@ Im <b> Sher-lock</b>
   </tbody>
 </table>
 
-<code> Currently log outed </code> <b><i> GitHub</b></I>..
+<code> Currently log outed all account so you can't reach me </code> <b><i> you can reach me but i maybe slow response 😃</b></I>..
 <p><b>why logout?? Do you back again?? Any projects??</b></p>
-Many many questions.. I have Only one answer for you.currently I'm not Available..why? Because  in my life I was waiting for a special person.
-That person asked to me. Stop all your madness 🥺
-so <b><I>I temporarily stopped all projects....</b></I>
+Many many questions.. I have Only one answer for you.currently I'm not in a mllsy..why? Because  in my living in the world is more expensive 😜. I've no profit from telegram 🥴
+Home - Office repeat repate... 
+so <b><I>I temporarily stopped all WROKS....</b></I>
 
-<a href="https://t.me/Mr_srlock"><b>Catch me</b>..
+<a href="https://t.me/Mr_srlock"><b>Catch me but I maybe slow response</b>..
 
 
 [<code>slow response due to...</code>](https://free-to-live.com/wp-content/uploads/2020/05/Romantic-good-night-messages-for-him-768x576.jpg)
