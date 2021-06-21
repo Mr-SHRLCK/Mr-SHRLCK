@@ -1,15 +1,16 @@
 ### Hola there 👋
 Im <b> Sherlock</b>
 
-- 🏡 *I’m currently live* ... UNITED KINGDOM 🇬🇧
-- 🌱 *I’m currently learning* ... Phyton 🐍,HTML,Java,
-- 👯 *I’m looking to collaborate on* ...All the project's i got the invitation by someone. *But now I'm busy*
+- 🏡 *I’m currently live* ... India 🇮🇳
+- 🏘️ *Home Town* ...  Kannur, Kerala
+- 🌱 *I’m currently learning* ... Phyton 🐍,HTML,Java, C++
+- 👯 *I’m looking to collaborate on* ... Everything. *But now I'm busy*
 - 🤔 *I’m looking for help with* ... I D K
-- 💬 *Ask me about* ... Software Devloper,Engineer,Obstimcts,
-- 📫 *How to reach me*: ... [Sher-lock](t.me/mr_srlock) *Now I'm log outed my account* <mono> if you've Any requests ib me I will give reply ASAP </mono>
+- 📫 *How to reach me*: ... [Sherlock](t.me/mr_srlock) *Now I'm log outed my account* <mono> if you've Any requests ib me I will give reply ASAP </mono>
 - 😄 *Pronouns*: ... 🎭🔥
 - ⚡ *Fun fact*: ... I don't know anything
 - 🌀 *what I know*: ... Python , Java , HTML , C++
+- 👀 *What I am doing*: ... I don't know. What I'm doing, especially I do 💤💤.
 - 🎁 *I Love To Spend My Time In*: ...
 
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg" width="30px" /> <img src ="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" width="30px" /> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/heroku.svg" width="30px" /> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/xbox.svg" width="30px"/>
